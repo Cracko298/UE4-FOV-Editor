@@ -1,5 +1,5 @@
 # UE4-FOV-Editor
-- Edit Unreal Engine 4 Games FOV in real-time. Requires you to have the access to the ue4 console.
+- Edit Unreal Engine 4 Games FOV in real-time. Requires you to have the access to the UE4 console.
 
 # Features:
 - Saves Last Used FOV-Value in a file.
