@@ -19,6 +19,10 @@
 
 ***You can try to manually set it by typing in*** '***FOV*** *5-175*'***.***
 
+- *Does this support any other Unreal Engine Versions besides UE4?*
+
+***As long as you have access to the console, and the FOV command or it's supported by the Engine version.***
+
 
 # Notes:
 - Needs a good GPU. For some unknown reason it uses quite a bit of GPU compute power.
