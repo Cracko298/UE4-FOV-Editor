@@ -6,8 +6,8 @@
 - Set your own FOV while playing.
 
 # Download:
-- [Source Code]().
-- [Compiled Version]().
+- [Source Code](https://github.com/Cracko298/UE4-FOV-Editor/releases/download/v1.0-release-1/FOV-Unlocker.py).
+- [Compiled Version](https://github.com/Cracko298/UE4-FOV-Editor/releases/download/v1.0-release-1/FOV-Unlocker.exe).
 
 
 # FaQ:
