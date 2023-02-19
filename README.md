@@ -29,6 +29,12 @@
 - Does ***NOT*** Support ARM-Base Processors.
 - Windows x32 or x64 ***ONLY.***
 
+
+# Python Requirements:
+- Python 3.9+
+- Windows x32/x64
+- Python External Modules Needed: ***numpy, keyboard, pywin32***.
+
 # Demo:
 
 <embed>https://user-images.githubusercontent.com/78656905/219968794-4f6bc537-180f-403d-8e11-68bbc8ad2d73.mp4</embed>
