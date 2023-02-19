@@ -33,7 +33,7 @@
 # Python Requirements:
 - Python 3.9+
 - Windows x32/x64
-- Python External Modules Needed: ***numpy, keyboard, pywin32***.
+- Python External Modules Needed: ***[numpy](https://pypi.org/project/numpy/), [keyboard](https://pypi.org/project/keyboard/), [pywin32](https://pypi.org/project/pywin32/)***.
 
 # Demo:
 
