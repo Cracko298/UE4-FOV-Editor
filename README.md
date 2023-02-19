@@ -25,6 +25,7 @@
 
 # Notes:
 - Needs a good GPU. For some unknown reason it uses quite a bit of GPU compute power.
+- Originally made for [Vampire Slayer: The Resurrection](https://store.steampowered.com/app/2188960/Vampire_Slayer_The_Resurrection/). Worked to fit ***most*** UE4 Games.
 - Requires that you have access to the UE4 console/command-line.
 - Does ***NOT*** Support ARM-Base Processors.
 - Windows x32 or x64 ***ONLY.***
